@@ -23,7 +23,7 @@ const allHomeWorlds = people.map(person => {
     }
 })
 
-console.log(allHomeWorlds)
+console.log(allHomeWorlds);
 
 const mainContainer = document.createElement('div')
 mainContainer.className = 'container'
